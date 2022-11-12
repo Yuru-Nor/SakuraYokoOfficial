@@ -25,6 +25,14 @@ a {
   padding-top: 10px;
 }
 
+.title-rink {
+  color: #fff;
+}
+
+.rink {
+  color: #38b48b;
+}
+
 .navigation {
   display: flex;
 }
