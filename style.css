@@ -92,6 +92,8 @@ main {
 .profile-label {
   font-weight: bold;
   width: 100px;
+  vertical-align: top;
+  overflow-wrap: break-word;
 }
 
 .main-box p {
